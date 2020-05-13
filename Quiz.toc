@@ -1,0 +1,5 @@
+## Interface: 80300
+## Title: Quiz
+## Notes: A quiz game in GUILD
+
+Core.lua
